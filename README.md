@@ -1,1 +1,2 @@
 # python-api-challenge
+In this challenge I have used OpenWeatherMap API in order to identify weather as we approach to equator.I have rendomly selected cities for this analysis.In order to represent weather more precisly i have used different plotting to represent those as well from those weather have created another file which help to choose destination for vacation according to weather and have also give visual representation of those cities via map using Geoapify API
